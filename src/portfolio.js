@@ -159,29 +159,40 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Identity and Access Management (IAM) Engineer",
+      company: "GRNET - National Infrastructures for Research and Technology",
+      companylogo: require("./assets/images/grnetShortLogo.png"),
+      date: "July 2017 – Present",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Primarily occupied with RCIAM, which is an Identity and Access Management solution that supports multiple identity protocols and frameworks, such as SAML 2.0, eIDAS SAML 1.2, OpenID Connect/OAuth 2.0 and X.509v3.",
+        "Develop new features and contribute to the open-source projects: MITREid Connect (Java), SimpleSAMLphp (PHP), Keycloak (Java) & COmanage Registry (PHP).",
+        "Create Ansible roles and maintain Ansible inventories for all the installations of RCIAM in Linux based systems. Create scripts using Python to automate processes.",
+        "Support end-users who experience difficulties to access services and support Service Providers to integrate with the RCIAM Proxy."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Penetration Tester",
+      company: "Hellenic Army IT Support Centre (H.A.I.S.C.)",
+      companylogo: require("./assets/images/haiscLogo.png"),
+      date: "Mar 2020 – Oct 2020",
+      descBullets: [
+        "Perform Penetration Tests to the Web Applications of the Hellenic Army General Staff before deploying to production.",
+        "Experience with SIEM technologies, network monitoring and firewall configuration."
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Information Technology Security Engineer",
+      company: "Hellenic Army IT Support Centre (H.A.I.S.C.)",
+      companylogo: require("./assets/images/haiscLogo.png"),
+      date: "Sep 2019 – Nov 2029",
+      desc: "Extend Serpico (a penetration testing report generation tool) to the needs of the H.A.I.S.C."
+    },
+    {
+      role: "Identity and Access Management (IAM) Engineer",
+      company: "Systems Security Laboratory (SSL) of University of Piraeus",
+      companylogo: require("./assets/images/systemsSecLabLogo.jpg"),
+      date: "May 2018 – Feb 2019",
+      desc: "Review the implementation of FIDO UAF Server, created by certSIGN, if complies with the specification and create developer documentation using JAVA Docs."
     }
   ]
 };

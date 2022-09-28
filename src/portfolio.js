@@ -109,23 +109,25 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
-      logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      schoolName: "University of Piraeus",
+      logo: require("./assets/images/universityOfPiraeusLogo.png"),
+      subHeader: "Master of Science in Cyber Security",
+      duration: "October 2018 - September 2020",
+      desc: "Postgraduate Programme in \"Digital Systems Security\", Department of Digital Systems",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Integrate an OpenID Provider with a FIDO UAF Server to support passwordless authentication.",
+        "Pentest and exploit vulnerabilities in the signaling protocol SS7 used in mobile networks."
       ]
     },
     {
-      schoolName: "Stanford University",
-      logo: require("./assets/images/stanfordLogo.png"),
+      schoolName: "University of Piraeus",
+      logo: require("./assets/images/universityOfPiraeusLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      duration: "October 2013 - September 2017",
+      desc: "Department of Digital Systems",
+      descBullets: [
+        "Major in Communications and Networks"
+      ]
     }
   ]
 };

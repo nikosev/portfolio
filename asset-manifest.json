@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.15bf9a94.chunk.css",
-    "main.js": "/portfolio/static/js/main.8cb90b2e.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8cb90b2e.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.13fd27e1.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.13fd27e1.js.map",
-    "static/js/2.a43f95d9.chunk.js": "/portfolio/static/js/2.a43f95d9.chunk.js",
-    "static/js/2.a43f95d9.chunk.js.map": "/portfolio/static/js/2.a43f95d9.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.b028cad9.chunk.css",
+    "main.js": "/portfolio/static/js/main.27943764.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.27943764.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.743977e8.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.743977e8.js.map",
+    "static/js/2.250dc4f0.chunk.js": "/portfolio/static/js/2.250dc4f0.chunk.js",
+    "static/js/2.250dc4f0.chunk.js.map": "/portfolio/static/js/2.250dc4f0.chunk.js.map",
     "static/css/3.a28360d6.chunk.css": "/portfolio/static/css/3.a28360d6.chunk.css",
-    "static/js/3.d9f1908c.chunk.js": "/portfolio/static/js/3.d9f1908c.chunk.js",
-    "static/js/3.d9f1908c.chunk.js.map": "/portfolio/static/js/3.d9f1908c.chunk.js.map",
+    "static/js/3.3ef5d3f3.chunk.js": "/portfolio/static/js/3.3ef5d3f3.chunk.js",
+    "static/js/3.3ef5d3f3.chunk.js.map": "/portfolio/static/js/3.3ef5d3f3.chunk.js.map",
     "static/css/4.7d5c10e0.chunk.css": "/portfolio/static/css/4.7d5c10e0.chunk.css",
-    "static/js/4.53694c0a.chunk.js": "/portfolio/static/js/4.53694c0a.chunk.js",
-    "static/js/4.53694c0a.chunk.js.map": "/portfolio/static/js/4.53694c0a.chunk.js.map",
+    "static/js/4.27681039.chunk.js": "/portfolio/static/js/4.27681039.chunk.js",
+    "static/js/4.27681039.chunk.js.map": "/portfolio/static/js/4.27681039.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.1b52c2beddf23229987a0e29d54ef0d0.js": "/portfolio/precache-manifest.1b52c2beddf23229987a0e29d54ef0d0.js",
+    "precache-manifest.7106b6b74441bab200170b06d6aecfbe.js": "/portfolio/precache-manifest.7106b6b74441bab200170b06d6aecfbe.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/3.a28360d6.chunk.css.map": "/portfolio/static/css/3.a28360d6.chunk.css.map",
     "static/css/4.7d5c10e0.chunk.css.map": "/portfolio/static/css/4.7d5c10e0.chunk.css.map",
-    "static/css/main.15bf9a94.chunk.css.map": "/portfolio/static/css/main.15bf9a94.chunk.css.map",
-    "static/js/2.a43f95d9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a43f95d9.chunk.js.LICENSE.txt",
+    "static/css/main.b028cad9.chunk.css.map": "/portfolio/static/css/main.b028cad9.chunk.css.map",
+    "static/js/2.250dc4f0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.250dc4f0.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/codeInLogo.webp": "/portfolio/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.51cf7192.svg",
@@ -36,9 +36,9 @@
     "static/media/universityOfPiraeusLogo.png": "/portfolio/static/media/universityOfPiraeusLogo.cdc44f0a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.13fd27e1.js",
-    "static/js/2.a43f95d9.chunk.js",
-    "static/css/main.15bf9a94.chunk.css",
-    "static/js/main.8cb90b2e.chunk.js"
+    "static/js/runtime-main.743977e8.js",
+    "static/js/2.250dc4f0.chunk.js",
+    "static/css/main.b028cad9.chunk.css",
+    "static/js/main.27943764.chunk.js"
   ]
 }

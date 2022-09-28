@@ -139,6 +139,18 @@ export default function socialMedia() {
           <span></span>
         </a>
       ) : null}
+
+      {socialMediaLinks.keybase ? (
+        <a
+          href={socialMediaLinks.keybase}
+          className="icon-button keybase"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <i className="fab fa-keybase"></i>
+          <span></span>
+        </a>
+      ) : null}
     </div>
   );
 }

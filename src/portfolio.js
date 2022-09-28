@@ -22,8 +22,10 @@ const illustration = {
 const greeting = {
   username: "nikosev",
   title: "Hi, I'm Nick",
-  subTitle: "Eager to learn and continuously evolving existing and new knowledge and skills. Participation in several Pan-European projects in collaboration with research institutes and experience in different positions during 5+ years of work experience. Looking forward to further develop DevOps and Cyber Security skills.",
-  resumeLink: "https://drive.google.com/file/d/1gNRCymEeMN58Qsm4ydD6rNlm0KoL2_n4/view?usp=sharing", // Set to empty to hide the button
+  subTitle:
+    "Eager to learn and continuously evolving existing and new knowledge and skills. Participation in several Pan-European projects in collaboration with research institutes and experience in different positions during 5+ years of work experience. Looking forward to further develop DevOps and Cyber Security skills.",
+  resumeLink:
+    "https://drive.google.com/file/d/1gNRCymEeMN58Qsm4ydD6rNlm0KoL2_n4/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -52,7 +54,9 @@ const skillsSection = {
   subTitle: "DESIGN | DEVELOP | DELIVER",
   skills: [
     emoji("⚡ Develop new features and contribute to open-source projects"),
-    emoji("⚡ Deploy and configure applications using Ansible in Linux based systems"),
+    emoji(
+      "⚡ Deploy and configure applications using Ansible in Linux based systems"
+    ),
     emoji("⚡ Secure Code Review and application of Best Current Practises")
   ],
 
@@ -113,7 +117,7 @@ const educationInfo = {
       logo: require("./assets/images/universityOfPiraeusLogo.png"),
       subHeader: "Master of Science in Cyber Security",
       duration: "October 2018 - September 2020",
-      desc: "Postgraduate Programme in \"Digital Systems Security\", Department of Digital Systems",
+      desc: 'Postgraduate Programme in "Digital Systems Security", Department of Digital Systems',
       descBullets: [
         "Integrate an OpenID Provider with a FIDO UAF Server to support passwordless authentication.",
         "Pentest and exploit vulnerabilities in the signaling protocol SS7 used in mobile networks."
@@ -125,9 +129,7 @@ const educationInfo = {
       subHeader: "Bachelor of Science in Computer Science",
       duration: "October 2013 - September 2017",
       desc: "Department of Digital Systems",
-      descBullets: [
-        "Major in Communications and Networks"
-      ]
+      descBullets: ["Major in Communications and Networks"]
     }
   ]
 };
@@ -357,7 +359,8 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss for job opportunity or just want to say hi? My Inbox is open for all.",
+  subtitle:
+    "Discuss for job opportunity or just want to say hi? My Inbox is open for all.",
   number: "+30 6942993950",
   email_address: "nikos.ev@hotmail.com"
 };

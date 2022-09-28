@@ -30,15 +30,16 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
-  orcid: "https://orcid.org/xxxx-xxxx-xxxx-xxxx",
-  keybase: "https://keybase.io/xxxx",
+  github: "https://github.com/nikosev",
+  linkedin: "https://www.linkedin.com/in/nikosev95/",
+  gmail: "nikolaosevg@gmail.com",
+  orcid: "https://orcid.org/0000-0001-7336-9165",
+  keybase: "https://keybase.io/nikosev",
+  // pgpkey: "30FDA09372B86B64",
+  // gitlab: "https://gitlab.com/saadpasta",
+  // facebook: "https://www.facebook.com/saad.pasta7",
+  // medium: "https://medium.com/@saadpasta",
+  // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false

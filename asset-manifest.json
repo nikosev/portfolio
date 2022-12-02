@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b028cad9.chunk.css",
-    "main.js": "/portfolio/static/js/main.b145df05.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.b145df05.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.303741fe.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.303741fe.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.743977e8.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.743977e8.js.map",
     "static/js/2.250dc4f0.chunk.js": "/portfolio/static/js/2.250dc4f0.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.27681039.chunk.js": "/portfolio/static/js/4.27681039.chunk.js",
     "static/js/4.27681039.chunk.js.map": "/portfolio/static/js/4.27681039.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.8148450e89a56fa55ab349cbd776b159.js": "/portfolio/precache-manifest.8148450e89a56fa55ab349cbd776b159.js",
+    "precache-manifest.68a55a3070cdebd0a71ddee3682ee874.js": "/portfolio/precache-manifest.68a55a3070cdebd0a71ddee3682ee874.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/3.a28360d6.chunk.css.map": "/portfolio/static/css/3.a28360d6.chunk.css.map",
     "static/css/4.7d5c10e0.chunk.css.map": "/portfolio/static/css/4.7d5c10e0.chunk.css.map",
@@ -32,12 +32,13 @@
     "static/media/saayaHealthLogo.webp": "/portfolio/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/portfolio/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/portfolio/static/media/talksCardBack.13780cdd.svg",
+    "static/media/university-of-aegean-logo.png": "/portfolio/static/media/university-of-aegean-logo.109dba71.png",
     "static/media/universityOfPiraeusLogo.png": "/portfolio/static/media/universityOfPiraeusLogo.cdc44f0a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.743977e8.js",
     "static/js/2.250dc4f0.chunk.js",
     "static/css/main.b028cad9.chunk.css",
-    "static/js/main.b145df05.chunk.js"
+    "static/js/main.303741fe.chunk.js"
   ]
 }

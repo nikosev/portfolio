@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8396332062227b3d9cb954e70a44a18a",
+    "revision": "0117ad87d9fb9e5b455e25192b2f9d7c",
     "url": "/portfolio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/4.7d5c10e0.chunk.css"
   },
   {
-    "revision": "53639e0f7f944085c647",
+    "revision": "85e615fd5702581b0780",
     "url": "/portfolio/static/css/main.b028cad9.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/4.27681039.chunk.js"
   },
   {
-    "revision": "53639e0f7f944085c647",
-    "url": "/portfolio/static/js/main.b145df05.chunk.js"
+    "revision": "85e615fd5702581b0780",
+    "url": "/portfolio/static/js/main.303741fe.chunk.js"
   },
   {
     "revision": "825277e9939c6fd48f33",
@@ -90,6 +90,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/portfolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "109dba71cb960dfabe1ec3284237373e",
+    "url": "/portfolio/static/media/university-of-aegean-logo.109dba71.png"
   },
   {
     "revision": "cdc44f0a3266ff6cf3539166738fa24a",

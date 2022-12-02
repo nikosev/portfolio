@@ -265,6 +265,23 @@ const achievementSection = {
           url: "https://www.udemy.com/course/devops-with-docker-kubernetes-and-azure-devops/"
         }
       ]
+    },
+    {
+      title: "GDPR Training - Certification of Attendance",
+      subtitle:
+        "General Data Protection Regulation (GDPR) 2016/679: Theoretical and Practical Presentation of the Ordinances - Organized by the University of Aegean",
+      image: require("./assets/images/university-of-aegean-logo.png"),
+      imageAlt: "Certification of Attendance - GDPR",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1m4rIa6hFWyabIXERfzq5KTZKZsR3Cs4w/view?usp=sharing"
+        },
+        {
+          name: "University of Aegean",
+          url: "https://www.aegean.edu"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true

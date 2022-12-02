@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55f11abf3f11360f4a5cf79158d987be",
+    "revision": "8396332062227b3d9cb954e70a44a18a",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "6d05c156d65b4bb718a6",
+    "revision": "b3dd89a18cdeb7c0c010",
     "url": "/portfolio/static/css/3.a28360d6.chunk.css"
   },
   {
-    "revision": "b19218e27a0fff12d93f",
+    "revision": "136ef288a0c69af44a6f",
     "url": "/portfolio/static/css/4.7d5c10e0.chunk.css"
   },
   {
-    "revision": "14551984e2baa5fef2a5",
+    "revision": "53639e0f7f944085c647",
     "url": "/portfolio/static/css/main.b028cad9.chunk.css"
   },
   {
-    "revision": "5d2e8dbbb451d1611740",
-    "url": "/portfolio/static/js/2.96f5e66a.chunk.js"
+    "revision": "bc739129970dfea9d651",
+    "url": "/portfolio/static/js/2.250dc4f0.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/portfolio/static/js/2.96f5e66a.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.250dc4f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d05c156d65b4bb718a6",
-    "url": "/portfolio/static/js/3.6c3aed2b.chunk.js"
+    "revision": "b3dd89a18cdeb7c0c010",
+    "url": "/portfolio/static/js/3.3ef5d3f3.chunk.js"
   },
   {
-    "revision": "b19218e27a0fff12d93f",
-    "url": "/portfolio/static/js/4.19b97bbb.chunk.js"
+    "revision": "136ef288a0c69af44a6f",
+    "url": "/portfolio/static/js/4.27681039.chunk.js"
   },
   {
-    "revision": "14551984e2baa5fef2a5",
-    "url": "/portfolio/static/js/main.4aa9e58a.chunk.js"
+    "revision": "53639e0f7f944085c647",
+    "url": "/portfolio/static/js/main.b145df05.chunk.js"
   },
   {
-    "revision": "1cb58736d6a832f1dd33",
-    "url": "/portfolio/static/js/runtime-main.93c92fdb.js"
+    "revision": "825277e9939c6fd48f33",
+    "url": "/portfolio/static/js/runtime-main.743977e8.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "1dff9472fafb22b8a44d8ce61ce26de6",
+    "url": "/portfolio/static/media/TADHack-Global-2017.1dff9472.jpg"
   },
   {
     "revision": "51cf7192327488da3d2a171280680c16",

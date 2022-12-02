@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b028cad9.chunk.css",
-    "main.js": "/portfolio/static/js/main.4aa9e58a.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4aa9e58a.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.93c92fdb.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.93c92fdb.js.map",
-    "static/js/2.96f5e66a.chunk.js": "/portfolio/static/js/2.96f5e66a.chunk.js",
-    "static/js/2.96f5e66a.chunk.js.map": "/portfolio/static/js/2.96f5e66a.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b145df05.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b145df05.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.743977e8.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.743977e8.js.map",
+    "static/js/2.250dc4f0.chunk.js": "/portfolio/static/js/2.250dc4f0.chunk.js",
+    "static/js/2.250dc4f0.chunk.js.map": "/portfolio/static/js/2.250dc4f0.chunk.js.map",
     "static/css/3.a28360d6.chunk.css": "/portfolio/static/css/3.a28360d6.chunk.css",
-    "static/js/3.6c3aed2b.chunk.js": "/portfolio/static/js/3.6c3aed2b.chunk.js",
-    "static/js/3.6c3aed2b.chunk.js.map": "/portfolio/static/js/3.6c3aed2b.chunk.js.map",
+    "static/js/3.3ef5d3f3.chunk.js": "/portfolio/static/js/3.3ef5d3f3.chunk.js",
+    "static/js/3.3ef5d3f3.chunk.js.map": "/portfolio/static/js/3.3ef5d3f3.chunk.js.map",
     "static/css/4.7d5c10e0.chunk.css": "/portfolio/static/css/4.7d5c10e0.chunk.css",
-    "static/js/4.19b97bbb.chunk.js": "/portfolio/static/js/4.19b97bbb.chunk.js",
-    "static/js/4.19b97bbb.chunk.js.map": "/portfolio/static/js/4.19b97bbb.chunk.js.map",
+    "static/js/4.27681039.chunk.js": "/portfolio/static/js/4.27681039.chunk.js",
+    "static/js/4.27681039.chunk.js.map": "/portfolio/static/js/4.27681039.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.8e9e97107dfd5a9bed6cd6790f62d6dd.js": "/portfolio/precache-manifest.8e9e97107dfd5a9bed6cd6790f62d6dd.js",
+    "precache-manifest.8148450e89a56fa55ab349cbd776b159.js": "/portfolio/precache-manifest.8148450e89a56fa55ab349cbd776b159.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/3.a28360d6.chunk.css.map": "/portfolio/static/css/3.a28360d6.chunk.css.map",
     "static/css/4.7d5c10e0.chunk.css.map": "/portfolio/static/css/4.7d5c10e0.chunk.css.map",
     "static/css/main.b028cad9.chunk.css.map": "/portfolio/static/css/main.b028cad9.chunk.css.map",
-    "static/js/2.96f5e66a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.96f5e66a.chunk.js.LICENSE.txt",
+    "static/js/2.250dc4f0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.250dc4f0.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/TADHack-Global-2017.jpg": "/portfolio/static/media/TADHack-Global-2017.1dff9472.jpg",
     "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.59389695.svg",
     "static/media/grnetShortLogo.png": "/portfolio/static/media/grnetShortLogo.a60aaec0.png",
@@ -34,9 +35,9 @@
     "static/media/universityOfPiraeusLogo.png": "/portfolio/static/media/universityOfPiraeusLogo.cdc44f0a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.93c92fdb.js",
-    "static/js/2.96f5e66a.chunk.js",
+    "static/js/runtime-main.743977e8.js",
+    "static/js/2.250dc4f0.chunk.js",
     "static/css/main.b028cad9.chunk.css",
-    "static/js/main.4aa9e58a.chunk.js"
+    "static/js/main.b145df05.chunk.js"
   ]
 }

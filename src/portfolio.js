@@ -282,6 +282,30 @@ const achievementSection = {
           url: "https://www.aegean.edu"
         }
       ]
+    },
+    {
+      title: "3rd place in TADHack Athens 2017",
+      subtitle: "Demonstrate SS7 attacks on Telestax’s JSS7 SMSC Gateways",
+      image: require("./assets/images/TADHack-Global-2017.jpg"),
+      imageAlt: "Certificate of Attendance - TADHack",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1di3Uxu9l4mP450JDi_WrXxAV2XipM-px/view?usp=sharing"
+        },
+        {
+          name: "Blog (TADHack)",
+          url: "https://blog.tadhack.com/2017/10/03/tadhack-global-weekend-2-summary/"
+        },
+        {
+          name: "Blog (ReCRED - University of Piraeus)",
+          url: "https://www.recred.eu/news-article/163/recred-supporting-university-piraeus-team-tadhack-athens-2017"
+        },
+        {
+          name: "Presentation",
+          url: "https://www.youtube.com/watch?v=eFq1g9GO3SY"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true

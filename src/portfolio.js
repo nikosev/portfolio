@@ -23,7 +23,7 @@ const greeting = {
   username: "nikosev",
   title: "Hi, I'm Nick",
   subTitle:
-    "Eager to learn and continuously evolving existing and new knowledge and skills. Participation in several Pan-European projects in collaboration with research institutes and experience in different positions during 5+ years of work experience. Looking forward to further develop DevOps and Cyber Security skills.",
+    "Eager to learn and continuously evolving existing and new knowledge and skills. Participation in several Pan-European projects in collaboration with research institutes and experience in different positions during 6+ years of work experience. Looking forward to further develop DevOps and Cyber Security skills.",
   resumeLink:
     "https://drive.google.com/file/d/1gNRCymEeMN58Qsm4ydD6rNlm0KoL2_n4/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -120,7 +120,8 @@ const educationInfo = {
       desc: 'Postgraduate Programme in "Digital Systems Security", Department of Digital Systems',
       descBullets: [
         "Integrate an OpenID Provider with a FIDO UAF Server to support passwordless authentication.",
-        "Pentest and exploit vulnerabilities in the signaling protocol SS7 used in mobile networks."
+        "Pentest and exploit vulnerabilities in the signaling protocol SS7 used in mobile networks.",
+        "Extend Serpico (a penetration testing report generation tool) to the needs of the Hellenic Army IT Support Centre (H.A.I.S.C.)."
       ]
     },
     {
@@ -161,15 +162,13 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Identity and Access Management (IAM) Engineer",
+      role: "Information Technology Security Engineer",
       company: "GRNET - National Infrastructures for Research and Technology",
       companylogo: require("./assets/images/grnetShortLogo.png"),
-      date: "July 2017 – Present",
+      date: "June 2023 – Present",
       descBullets: [
-        "Primarily occupied with RCIAM, which is an Identity and Access Management solution that supports multiple identity protocols and frameworks, such as SAML 2.0, eIDAS SAML 1.2, OpenID Connect/OAuth 2.0 and X.509v3.",
-        "Develop new features and contribute to the open-source projects: MITREid Connect (Java), SimpleSAMLphp (PHP), Keycloak (Java) & COmanage Registry (PHP).",
-        "Create Ansible roles and maintain Ansible inventories for all the installations of RCIAM in Linux based systems. Create scripts using Python to automate processes.",
-        "Support end-users who experience difficulties to access services and support Service Providers to integrate with the RCIAM Proxy."
+        "Perform security assessments to GRNET’s Services.",
+        "Automate procedures using GitLab’s CI/CD pipelines."
       ]
     },
     {
@@ -183,18 +182,23 @@ const workExperiences = {
       ]
     },
     {
-      role: "Information Technology Security Engineer",
-      company: "Hellenic Army IT Support Centre (H.A.I.S.C.)",
-      companylogo: require("./assets/images/haiscLogo.png"),
-      date: "Sep 2019 – Nov 2029",
-      desc: "Extend Serpico (a penetration testing report generation tool) to the needs of the H.A.I.S.C."
-    },
-    {
       role: "Identity and Access Management (IAM) Engineer",
       company: "Systems Security Laboratory (SSL) of University of Piraeus",
       companylogo: require("./assets/images/systemsSecLabLogo.jpg"),
       date: "May 2018 – Feb 2019",
       desc: "Review the implementation of FIDO UAF Server, created by certSIGN, if complies with the specification and create developer documentation using JAVA Docs."
+    },
+    {
+      role: "Identity and Access Management (IAM) Engineer",
+      company: "GRNET - National Infrastructures for Research and Technology",
+      companylogo: require("./assets/images/grnetShortLogo.png"),
+      date: "July 2017 – June 2023",
+      descBullets: [
+        "Primarily occupied with RCIAM, which is an Identity and Access Management solution that supports multiple identity protocols and frameworks, such as SAML 2.0, eIDAS SAML 1.2, OpenID Connect/OAuth 2.0 and X.509v3.",
+        "Develop new features and contribute to the open-source projects: MITREid Connect (Java), SimpleSAMLphp (PHP), Keycloak (Java) & COmanage Registry (PHP).",
+        "Create Ansible roles and maintain Ansible inventories for all the installations of RCIAM in Linux based systems. Create scripts using Python to automate processes.",
+        "Support end-users who experience difficulties to access services and support Service Providers to integrate with the RCIAM Proxy."
+      ]
     }
   ]
 };
